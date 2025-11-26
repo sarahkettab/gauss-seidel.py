@@ -1,2 +1,2 @@
-# gauss-seidel-code
+# gauss-seidel.py
 Gauss Seidel Paython Script
